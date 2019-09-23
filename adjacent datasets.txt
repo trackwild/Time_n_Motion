@@ -1,0 +1,16 @@
+Weather
+Training
+Internal Data Sets from Other Cox Projects
+Address information
+Oracle workforce management system
+Work in AWS
+In EDW
+
+Alternate paths are for Survey scores
+
+
+Ensemble Training for Repeat Problem, etc.
+
+Use different models based on input values...  run analysis on different models /per input (such as Work Order Type)
+
+* Predict Solution Code *
